@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Test Page
 
-I'm glad you are here. I plan to talk about ...
+> this page is a test to the course of github pages!
